@@ -1,0 +1,17 @@
+div{
+    background-color: dimgrey;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+}
+div a{
+    color:white;
+}
+.avatar{
+    border-radius: 20px;
+    margin: 30px;
+}
+body{
+    font-family: 'Press Start 2P', cursive;
+}
